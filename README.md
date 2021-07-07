@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theshadow76
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on making programs
 - 📫 How to reach me on mail: vigopaul05@gmail.com
 

@@ -52,4 +52,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theshadow76&show_icons=true&locale=en" alt="theshadow76" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshadow76&" alt="theshadow76" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshadow76&" alt="theshadow76" /></p
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+<p>This is how many lines of code I have:</p>
+<img src="https://github.com/theshadow76/theshadow76.github.io/blob/main/loc_by_language.png?raw=true"/>
+

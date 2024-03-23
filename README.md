@@ -57,5 +57,5 @@
                                                                                                                        
                                                                                                                        
 <p>This is how many lines of code I have:</p>
-<img src="https://github.com/theshadow76/theshadow76/blob/main/loc_by_language.png?raw=true"/>
+<img src="https://github.com/theshadow76/public-data/blob/main/loc_by_language.png?raw=true"/>
 

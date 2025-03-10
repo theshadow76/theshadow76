@@ -59,3 +59,8 @@
 <p>This is how many lines of code I have:</p>
 <img src="https://raw.githubusercontent.com/theshadow76/public-data/main/loc_by_language_v1.0.5/loc_by_language.png"/>
 
+<p>This are some other cool graphs</p>
+<img src="https://raw.githubusercontent.com/theshadow76/public-data/refs/heads/main/loc_by_user.png"/>
+<img src="https://raw.githubusercontent.com/theshadow76/public-data/refs/heads/main/loc_pie_chart.png"/>
+<img src="https://raw.githubusercontent.com/theshadow76/public-data/refs/heads/main/repos_per_user.png"/>
+

@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with **Any project**
 
-- 👨‍💻 All of my projects are available at [http://vigowalker.online/](http://vigowalker.online/)
+- 👨‍💻 All of my projects are available at [https://chipatrade.com/](https://chipatrade.com/)
 
-- 📝 I regularly write articles on [http://vigowalker.online/](http://vigowalker.online/)
+- 📝 I regularly write articles on [https://chipatrade.com/](https://chipatrade.com/)
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **vigopaul05@gmail.com**
 
-- 📄 Know about my experiences [http://vigowalker.online/](http://vigowalker.online/)
+- 📄 Know about my experiences [https://chipatrade.com/](https://chipatrade.com/)
 
 - ⚡ Fun fact **I love game dev bugs**
 

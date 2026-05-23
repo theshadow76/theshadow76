@@ -57,5 +57,8 @@
                                                                                                                        
                                                                                                                        
 <p>This is how many lines of code I have:</p>
-<img src="https://raw.githubusercontent.com/theshadow76/public-data/refs/heads/main/loc_by_language-01-11-2025.png"/>
+<img src="https://github.com/theshadow76/public-data/blob/main/loc_by_language_v1.0.5/team_overview.png?raw=true"/>
+<img src="https://github.com/theshadow76/public-data/blob/main/loc_by_language_v1.0.5/language_heatmap.png?raw=true"/>
+<img src="https://github.com/theshadow76/public-data/blob/main/loc_by_language_v1.0.5/head_to_head.png?raw=true"/>
+
 
